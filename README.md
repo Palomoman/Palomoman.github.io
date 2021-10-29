@@ -9,3 +9,4 @@
 <script async src="//jsfiddle.net/Palomoman/p37u5y8o/32/embed/"></script>
 <script async src="//jsfiddle.net/Palomoman/kw7zgc5e/15/embed/"></script>
 <h3>Estructuras de datos complejas</h3>
+<script async src="//jsfiddle.net/Palomoman/rbfLdykv/20/embed/"></script>
