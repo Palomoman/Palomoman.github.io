@@ -10,6 +10,8 @@
 <h1>M06_02_FT_02 - Interacció entre sistemes</h1>
 <h3>Salida de información en el contenido visible por el usuario</h3>
 <h5>innerHTML()</h5>
-<script async src="//jsfiddle.net/Palomoman/r92pd4av/13/embed/"></script>
+<script async src="//jsfiddle.net/Palomoman/r92pd4av/16/embed/"></script>
 <h5>document.write()</h5>
-<script async src="//jsfiddle.net/Palomoman/p2thc6qg/14/embed/"></script>
+<script async src="//jsfiddle.net/Palomoman/p2thc6qg/15/embed/"></script>
+<h3>Entrada y salida de información con ventanas emergentes básicas de JS</h3>
+<h5>window.alert()</h5>
