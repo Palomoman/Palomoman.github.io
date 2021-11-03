@@ -12,6 +12,16 @@
 <h5>innerHTML()</h5>
 <script async src="//jsfiddle.net/Palomoman/r92pd4av/16/embed/"></script>
 <h5>document.write()</h5>
-<script async src="//jsfiddle.net/Palomoman/p2thc6qg/15/embed/"></script>
+<script async src="//jsfiddle.net/Palomoman/p2thc6qg/24/embed/"></script>
 <h3>Entrada y salida de información con ventanas emergentes básicas de JS</h3>
 <h5>window.alert()</h5>
+<script async src="//jsfiddle.net/Palomoman/8qh7grjz/10/embed/"></script>
+<h5>window.promt()</h5>
+<script async src="//jsfiddle.net/Palomoman/cpmq9270/5/embed/"></script>
+<h5>window.confirm()</h5>
+<script async src="//jsfiddle.net/Palomoman/07genuro/3/embed/"></script>
+<h3>Sortida d’informació a la consola del navegador</h3>
+<h5>console.log()</h5>
+<script async src="//jsfiddle.net/Palomoman/w90epLrh/6/embed/"></script>
+<h5>console.time() & console.timeEnd()</h5>
+<script async src="//jsfiddle.net/Palomoman/0uzhc59b/5/embed/"></script>
