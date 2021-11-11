@@ -27,3 +27,6 @@
 <script async src="//jsfiddle.net/Palomoman/0uzhc59b/5/embed/"></script>
 <h5>Form</h5>
 <script async src="//jsfiddle.net/Palomoman/pugoz9fr/10/embed/"></script>
+<h1>M06_02_FT_03 - Programació estructurada</h1>
+<h3>Estructures de Decisió i Estructures de Repetició</h3>
+<script async src="//jsfiddle.net/Palomoman/tjgqdmzh/29/embed/"></script>
