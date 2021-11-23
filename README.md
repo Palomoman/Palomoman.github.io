@@ -31,4 +31,5 @@
 <h3>Estructures de Decisió i Estructures de Repetició</h3>
 <script async src="//jsfiddle.net/Palomoman/tjgqdmzh/29/embed/"></script>
 <h1>M06_03_FT_01 - Objectes del Sistema</h1>
+<h3>Treballant amb objectes i sorting</h3>
 <script async src="//jsfiddle.net/Palomoman/18s4pb56/15/embed/"></script>
