@@ -33,3 +33,10 @@
 <h1>M06_03_FT_01 - Objectes del Sistema</h1>
 <h3>Treballant amb objectes i sorting</h3>
 <script async src="//jsfiddle.net/Palomoman/18s4pb56/15/embed/"></script>
+<h1>M06_04_FT_01 - Programació modular</h1>
+<h3>Suma amb callbacks</h3>
+<script async src="//jsfiddle.net/Palomoman/oL1dna08/2/embed/"></script>
+<h3>Callback Simple</h3>
+<script async src="//jsfiddle.net/Palomoman/L3mue5xq/2/embed/"></script>
+<h3>Callback funció anònima</h3>
+<script async src="//jsfiddle.net/Palomoman/e6tu491a/1/embed/"></script>
