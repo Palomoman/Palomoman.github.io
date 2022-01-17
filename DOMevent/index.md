@@ -13,3 +13,8 @@ Así que, básicamente, los eventos del DOM, son la manera que tenemos los desar
 <h3> Y, algunos de sus métodos más útiles: </h3>
 
 ![alt text](https://github.com/Palomoman/Palomoman.github.io/blob/master/DOMevent/dom2.png?raw=true)
+
+
+<h2> Un ejemplo visual </h2>
+
+<script async src="//jsfiddle.net/Palomoman/7uhyzr2d/14/embed/"></script>
