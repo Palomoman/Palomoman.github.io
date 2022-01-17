@@ -7,7 +7,7 @@ Así que, básicamente, los eventos del DOM, son la manera que tenemos los desar
 
 Algunos de los eventos más usuales son:
 
-![alt text](https://github.com/[Palomoman]/[Palomoman.github.io]/blob/[master]/DOMevent/dom1.png?raw=true)
+![alt text](https://github.com/Palomoman/Palomoman.github.io/blob/master/DOMevent/dom1.png?raw=true)
 
 Y, algunos de sus métodos más útiles:
 
