@@ -11,4 +11,4 @@ Algunos de los eventos más usuales son:
 
 Y, algunos de sus métodos más útiles:
 
-![alt text](https://github.com/[Palomoman]/[Palomoman.github.io]/blob/[master]/DOMevent/dom2.png?raw=true)
+![alt text](https://github.com/Palomoman/Palomoman.github.io/blob/master/DOMevent/dom2.png?raw=true)
