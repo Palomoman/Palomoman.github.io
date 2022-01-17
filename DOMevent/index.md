@@ -18,5 +18,3 @@ Así que, básicamente, los eventos del DOM, son la manera que tenemos los desar
 <h2> Un ejemplo visual </h2>
 
 <script async src="//jsfiddle.net/Palomoman/7uhyzr2d/14/embed/"></script>
-
-![alt text](https://github.com/Palomoman/Palomoman.github.io/blob/master/DOMevent/dom3.png?raw=true)
