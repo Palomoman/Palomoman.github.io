@@ -40,3 +40,5 @@
 <script async src="//jsfiddle.net/Palomoman/L3mue5xq/2/embed/"></script>
 <h3>Callback funció anònima</h3>
 <script async src="//jsfiddle.net/Palomoman/e6tu491a/1/embed/"></script>
+<h1>M06_06_FT_01 - Elements del DOM</h1>
+<script async src="//jsfiddle.net/Palomoman/1h5aL27k/71/embed/"></script>
