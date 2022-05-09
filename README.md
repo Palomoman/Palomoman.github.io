@@ -44,3 +44,5 @@
 <script async src="//jsfiddle.net/Palomoman/1h5aL27k/71/embed/"></script>
 <h1>M06_07_FT_01 - WebComponents (JS)</h1>
 <script async src="//jsfiddle.net/Palomoman/4h96Lzfd/16/embed/"></script>
+<h1>M06_07_FT_02 - Programació per WebComponents (VUE)</h1>
+<script async src="//jsfiddle.net/Palomoman/btpr7e9d/104/embed/"></script>
